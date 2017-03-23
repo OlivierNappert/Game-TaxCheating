@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<intro>
+      <IntroAppZip>Intro.zip</IntroAppZip> 
+      <Location>Removable</Location>
+      <AppName>U3Introduction.exe</AppName>
+      <RestoreName>RestoreU3.exe</RestoreName>
+</intro>
